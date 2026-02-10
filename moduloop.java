@@ -16,8 +16,29 @@ public class moduloop {
     // int b =10 ;
     // int c = a % b ;
     // System .out . print (c );
+// DIFFERENT DATA TYPES AND THEIR OPERATION 
+//  case 1 int /int = int ;
+//  case 2 int /double = double ;
+//  case 3 = double / double = double ;
+//  case 4 = double /int = double ;
+// int a = 5 ;
+//  int b =2;
+// double c = a/b;
+// System.out .print (c);
 
+// 
+// int a = 5 ;
+//  double b =2 ;
+// double c = a/b;
+// System.out .print (c);
 
-
+// double a = 5 ;
+//  double b =2 ;
+// double c = a/b;
+// System.out .print (c);
+double a = 5 ;
+int b = 2 ;
+double c = a/b;
+System.out .print (c);
     }
 }
