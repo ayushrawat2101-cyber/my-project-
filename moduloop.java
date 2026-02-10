@@ -36,9 +36,9 @@ public class moduloop {
 //  double b =2 ;
 // double c = a/b;
 // System.out .print (c);
-double a = 5 ;
-int b = 2 ;
-double c = a/b;
-System.out .print (c);
+// double a = 5 ;
+// int b = 2 ;
+// double c = a/b;
+// System.out .print (c);
     }
 }
