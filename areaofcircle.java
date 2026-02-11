@@ -19,7 +19,7 @@ public class areaofcircle {
     int breadth = 9;
     int height = 3;
     int tsaofcuboid = 2 * ( length * breadth + breadth * height + length * height );
-System .out . println(tsaofcuboid);
+//System .out . println(tsaofcuboid);
 
     }
 }
