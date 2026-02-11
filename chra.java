@@ -4,7 +4,7 @@ public class chra {
         System.out.println(adi);
         char ayush = '*';
         System.out.println(ayush);
-         ASCII VALUES 
+        // ASCII VALUES 
         char ch = 'A';
         int x = ch ;
         System.out .println(x);
@@ -16,14 +16,13 @@ public class chra {
         int z = (int )by;
          System .out . println(z);
 
- integer to character 
+ //integer to character 
 
- int x = 100;
- char ch = (char ) x;
- System.out.println(ch);
+//  int x = 100;
+//  char ch = (char ) x;
+//  System.out.println(ch);
      }
-int z = 101;
-char ph = (char )z ;
-System.out.println(ph);
-}
+// int z = 101;
+// char ph = (char )z ;
+// System.out.println(ph);
 }
