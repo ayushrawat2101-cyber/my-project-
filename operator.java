@@ -19,7 +19,7 @@ System.out .println(5==3);
 System.out .println(3>=5);
 System.out .println(3<=5);
 System.out .println(3!=5);
-System.out .println(35 == 35 );
+
 
 boolean x = (5==3);
 System.out.println(x);
