@@ -43,5 +43,5 @@ public class inputuser {
         double si = p*r*t /100 ;
         System.out .print(si);
 
-    }
+}
 }
