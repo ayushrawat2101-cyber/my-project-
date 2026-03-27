@@ -7,7 +7,7 @@ public class student {
        age =98;
     }
     student( int age ){
-     this.  age = age ;
+     this.age = age ;
        this.name = name ;
     }
     student(int age , String name ){
